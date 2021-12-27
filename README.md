@@ -1,8 +1,14 @@
- 👋 Hi, I’m @amirkx\
- 💞️ I’m looking to collaborate on open source projects(technical & non-technical )\
+ # Amir Kazemi
+ Hi, I’m amir kazemi and I'm do Backend engineering .I’m looking to collaborate on open source projects(technical & non-technical ). If your project needs help with documentation, feel free to reach out to me.
+ 
  📫 How to reach me 
-- email : amirkazemi196@gmail.com
+- [email](amirkazemi196@gmail.com)
 - [linkedIn](https://www.linkedin.com/in/amir-kazemi-8925b975/)
+
+## Skills and Experience
+- Php/Laravel
+- NodeJs
+- Docker
         
 
 <!---
