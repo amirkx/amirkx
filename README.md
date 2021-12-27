@@ -1,5 +1,5 @@
  # Amir Kazemi
- Hi, I’m amir kazemi and I'm do Backend engineering .I’m looking to collaborate on open source projects(technical & non-technical ). If your project needs help with documentation, feel free to reach out to me.
+ Hi, I’m amir kazemi and I do Backend engineering. I’m looking to collaborate on open source projects(technical & non-technical ). If your project needs help with documentation, feel free to reach out to me.
  
  📫 How to reach me 
 - [email](amirkazemi196@gmail.com)
